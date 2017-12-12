@@ -1,6 +1,6 @@
 {
   "name": "nqm-react-simple-di",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "description": "Simple Dependancy Injection Solution for React",
   "repository": {
     "type": "git",
